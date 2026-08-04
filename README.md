@@ -1,5 +1,10 @@
 # Taller1_IA
 
+## Integrantes
+- Jose Ballestas
+- Daniel Gomez
+- Francesco Rosa
+
 ## Explicacion de la heurística:
 Esta heurística evalúa un estado del tablero analizando qué tan cerca están las fichas de sus vecinos esperados según el estado objetivo.
 
